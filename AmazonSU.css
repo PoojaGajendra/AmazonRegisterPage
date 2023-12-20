@@ -1,0 +1,86 @@
+#logo{
+    height:50px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+em{
+    color: rgb(30, 150, 230);
+}
+
+#maindiv{
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+body{
+    font-size: 13px;
+    line-height: 19px;
+    font-family: "Amazon Ember",Arial,sans-serif;
+
+}
+#CreateAcc{
+    font-size: 28px;
+}
+#border{
+    width: 300px;
+    height: 650px;
+    padding: 14px 18px;
+    border: 1px solid rgba(196, 183, 183, 0.438);
+    border-radius: 5px;
+    font-family: "Amazon Ember",Arial,sans-serif;
+    line-height: 19px;
+    margin-top: 20px;
+}
+#mobcol{
+    display: flex;
+    justify-content: space-between;
+}
+select{
+    height: 30px;
+    border-radius: 6px;
+    border: 1px solid rgba(37, 35, 35, 0.438);
+
+}
+#mobileno{
+    width: 200px;
+}
+input{
+    height: 28px;
+    width: 290px;
+    border: 1px solid rgba(37, 35, 35, 0.438);
+    border-radius: 3px;
+    font-family: "Amazon Ember",Arial,sans-serif;
+}
+label{
+    font-size: 13px;
+    line-height: 19px;
+    color: #111;
+}
+#Continuebtn{
+    height: 29px;
+    width: 300px;
+    background-color:rgba(250, 205, 4, 0.781);
+    border: none;
+    border-radius: 5px; 
+}
+#txt1,#txt2{
+    font-size: 13px;
+    line-height: 19px
+}
+#box1{
+    /* border: 2px solid; */
+    /* box-shadow:  0px 0px 0px 1px grey; */
+    border: none;
+}
+hr{
+    border: 0.5px solid rgba(196, 183, 183, 0.438);
+}
+a:link{
+    color: blue;
+    font-family: "Amazon Ember",Arial,sans-serif;
+    text-decoration: none;
+}
+
